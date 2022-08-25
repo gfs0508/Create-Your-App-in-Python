@@ -20,7 +20,7 @@
 ## :1st_place_medal: Updates and Versions
 - This project is in beta, for now it is normal to have bugs and errors during its execution.
 
-<details><summary>BETA 1.0</summary>
+<details><summary>BETA 1.0 (in working)</summary>
 
 > Update in: 25/08/2022
  
