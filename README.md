@@ -11,7 +11,7 @@
 </p>
 
 <p align=center>  
-<a>About | Updates and Versions | License </a>
+<a>About | Updates and Versions </a>
 </p>
 
 
