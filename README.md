@@ -26,8 +26,8 @@
  
  - Features
     - [x] Languages
-      - English
-      - Portuguese (Portugal)
+      - English ![Download Language](https://github.com/GFS-0508/Create-Your-App-in-Python/blob/main/beta%201.0/lang/en_US.csv)
+      - Portuguese (Portugal) ![Download Language](https://github.com/GFS-0508/Create-Your-App-in-Python/blob/main/beta%201.0/lang/pt_PT.csv)
       - :boom: NOTE: It is possible to add new languages through a .csv file :boom:
     - [x] Simple Interface
     - [x] Extensions (with errors)
