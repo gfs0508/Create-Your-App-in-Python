@@ -37,3 +37,17 @@
     - [ ] Design 
 
 </details>
+
+## :computer: Run on CMD/Terminal
+> For Beta 1.0
+```bash
+python main.py 
+```
+## :computer: Create a EXE file
+> For Beta 1.0
+```bash
+pip install pyinstaller
+```
+```bash
+pyinstaller --onefile main.py
+```
